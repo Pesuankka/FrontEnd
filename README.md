@@ -1,7 +1,7 @@
 # FrontEnd
 Täältä löytyy FrontEnd kurssin lopputyöt
 
-[MycarShop](/carshop/src/App.js)
-[MycarShop](/carshop/src/Components/AddCar.js)
-[MycarShop](/carshop/src/Components/CarList.js)
-[MycarShop](/carshop/src/Components/EditCar.js)
+[MycarShop - App](/carshop/src/App.js)
+[MycarShop - AddCar](/carshop/src/Components/AddCar.js)
+[MycarShop - CarList](/carshop/src/Components/CarList.js)
+[MycarShop - EditCar](/carshop/src/Components/EditCar.js)
