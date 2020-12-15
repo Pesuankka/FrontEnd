@@ -13,8 +13,8 @@ Git Linkki: https://github.com/Pesuankka/FrontEnd
 
 [PersonalTrainerpart1 - customer](/personaltrainer/src/components/customers.js)
 
-[PersonalTrainer - home](/personaltrainer/src/components/home.js)
+[PersonalTrainerpart1 - home](/personaltrainer/src/components/home.js)
 
-[PersonalTrainer - training](/personaltrainer/src/components/training.js)
+[PersonalTrainerpart1 - training](/personaltrainer/src/components/training.js)
 
-[PersonalTrainer - app](/personaltrainer/src/App.js)
+[PersonalTrainerpart1 - app](/personaltrainer/src/App.js)
