@@ -11,10 +11,10 @@ Git Linkki: https://github.com/Pesuankka/FrontEnd
 
 [MycarShop - EditCar](/carshop/src/components/EditCar.js)
 
-[PersonalTrainerpart1 - customer](/personaltrainer/components/customers.js)
+[PersonalTrainerpart1 - customer](/personaltrainer/src/components/customers.js)
 
-[PersonalTrainer - home](/personaltrainer/components/home.js)
+[PersonalTrainer - home](/personaltrainer/src/components/home.js)
 
-[PersonalTrainer - training](/personaltrainer/components/training.js)
+[PersonalTrainer - training](/personaltrainer/src/components/training.js)
 
-[PersonalTrainer - app](/personaltrainer/App.js)
+[PersonalTrainer - app](/personaltrainer/src/App.js)
