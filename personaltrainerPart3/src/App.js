@@ -14,7 +14,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <AppBar position='static' style={{letterSpacing: 8}} >
-          <Toolbar >
+          <Toolbar>
           <img src="DonkeyLogo.png" className="logodonk"/>
           <h1>Donkey Fit App</h1>
           </Toolbar>
