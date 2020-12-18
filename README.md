@@ -32,7 +32,7 @@ Git Linkki: https://github.com/Pesuankka/FrontEnd
 
 [PersonalTrainerpart2 - EditCustomer](/personaltrainerPart2/src/components/EditCustomer.js)
 
-[PersonalTrainerpart2 - home](/personaltrainerPart2/src/components/Home.js)
+[PersonalTrainerpart2 - Home](/personaltrainerPart2/src/components/Home.js)
 
 [PersonalTrainerpart2 - Training](/personaltrainerPart2/src/components/Training.js)
 
@@ -42,20 +42,20 @@ Git Linkki: https://github.com/Pesuankka/FrontEnd
 
 -----------------PERSONAL TRAINER TASK 3----------------------
 
-[PersonalTrainerpart3 - Customers](/personaltrainerPart2/src/components/Customers.js)
+[PersonalTrainerpart3 - Customers](/personaltrainerPart3/src/components/Customers.js)
 
-[PersonalTrainerpart3 - AddCustomer](/personaltrainerPart2/src/components/AddCustomer.js)
+[PersonalTrainerpart3 - AddCustomer](/personaltrainerPart3/src/components/AddCustomer.js)
 
-[PersonalTrainerpart3 - EditCustomer](/personaltrainerPart2/src/components/EditCustomer.js)
+[PersonalTrainerpart3 - EditCustomer](/personaltrainerPart3/src/components/EditCustomer.js)
 
-[PersonalTrainerpart3 - Calendar](/personaltrainerPart2/src/components/Calendar.js)
+[PersonalTrainerpart3 - Calendar](/personaltrainerPart3/src/components/Calendar.js)
 
-[PersonalTrainerpart3 - Home](/personaltrainerPart2/src/components/Home.js)
+[PersonalTrainerpart3 - Home](/personaltrainerPart3/src/components/Home.js)
 
-[PersonalTrainerpart3 - Training](/personaltrainerPart2/src/components/Training.js)
+[PersonalTrainerpart3 - Training](/personaltrainerPart3/src/components/Training.js)
 
-[PersonalTrainerpart3 - AddTraining](/personaltrainerPart2/src/components/AddTraining.js)
+[PersonalTrainerpart3 - AddTraining](/personaltrainerPart3/src/components/AddTraining.js)
 
-[PersonalTrainerpart3 - App](/personaltrainerPart2/src/App.js)
+[PersonalTrainerpart3 - App](/personaltrainerPart3/src/App.js)
 
 
