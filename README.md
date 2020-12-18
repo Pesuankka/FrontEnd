@@ -8,11 +8,14 @@ Git Linkki: https://github.com/Pesuankka/FrontEnd
 
 [MycarShop - App](/carshop/src/App.js)
 
+[MycarShop - EditCar](/carshop/src/App.css)
+
 [MycarShop - AddCar](/carshop/src/components/AddCar.js)
 
 [MycarShop - CarList](/carshop/src/components/CarList.js)
 
 [MycarShop - EditCar](/carshop/src/components/EditCar.js)
+
 
 ------------------PERSONAL TRAINER TASK 1-------------------------
 
@@ -23,6 +26,8 @@ Git Linkki: https://github.com/Pesuankka/FrontEnd
 [PersonalTrainerpart1 - Training](/personaltrainer/src/components/training.js)
 
 [PersonalTrainerpart1 - App](/personaltrainer/src/App.js)
+
+[MycarShop - EditCar](/personaltrainer/src/App.css)
 
 ----------------PERSONAL TRAINER TASK 2-------------
 
@@ -39,6 +44,8 @@ Git Linkki: https://github.com/Pesuankka/FrontEnd
 [PersonalTrainerpart2 - AddTraining](/personaltrainerPart2/src/components/AddTraining.js)
 
 [PersonalTrainerpart2 - App](/personaltrainerPart2/src/App.js)
+
+[MycarShop - EditCar](/personaltrainerPart2/src/App.css)
 
 -----------------PERSONAL TRAINER TASK 3----------------------
 
@@ -57,5 +64,7 @@ Git Linkki: https://github.com/Pesuankka/FrontEnd
 [PersonalTrainerpart3 - AddTraining](/personaltrainerPart3/src/components/AddTraining.js)
 
 [PersonalTrainerpart3 - App](/personaltrainerPart3/src/App.js)
+
+[MycarShop - EditCar](/personaltrainerPart3/src/App.css)
 
 
