@@ -1,5 +1,5 @@
 # FrontEnd
-Täältä löytyy FrontEnd kurssin lopputyöt
+
 
 Git Linkki: https://github.com/Pesuankka/FrontEnd
 
